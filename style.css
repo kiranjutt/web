@@ -1,0 +1,63 @@
+<style>
+
+.stuff {
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 1000px;
+  }
+
+  .head {
+    font-size: 20px;
+  }
+  
+  #name {
+    font-family: Sacramento;
+    float: right;
+    margin-top: 10px;
+    margin-right: 4%;
+  }
+
+  .right {
+    height: 1000px;
+    width: 45px;
+    background-color: #0a6969;
+    float: right;
+    position: inherit;
+  }
+  #footer {
+    height: 50px;
+    width: 100%;
+    background-color: #5c1515;
+    clear: both;
+    position: relative;
+  }
+
+  #name {
+    font-family: Sacramento;
+    float: right;
+    margin-top: 10px;
+    margin-right: 4%;
+  }
+  #header {
+    height: 40px;
+    width: 100%;
+    background-color: #6d1414;
+    position: fixed;
+    z-index: 1;
+  }
+  .left {
+    height: 1000px;
+    width: 45px;
+    background-color: #0a6969;
+    float: left;
+    position: fixed;
+  }
+
+  
+  div {
+    border-radius: 5px;
+  }
+
+        </style>
